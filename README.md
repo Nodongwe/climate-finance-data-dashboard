@@ -38,7 +38,8 @@ This project analyzes the financial impact of climate-related events across Sout
 ---
 
 ## Dashboard Preview
-(Add your screenshots here)
+<img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/30f76242-df0e-4590-9b9c-b345f0ece5ad" />
+
 
 ---
 
