@@ -40,6 +40,12 @@ This project analyzes the financial impact of climate-related events across Sout
 ## Dashboard Preview
 <img width="1280" height="933" alt="image" src="https://github.com/user-attachments/assets/30f76242-df0e-4590-9b9c-b345f0ece5ad" />
 
+---
+
+## Interactive Dashboard
+
+View the live dashboard here:  
+[Click to open Looker Studio Dashboard](https://datastudio.google.com/reporting/4fed0681-3c58-47e4-b016-84157438a0b8)
 
 ---
 
